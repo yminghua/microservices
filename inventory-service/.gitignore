@@ -30,7 +30,7 @@ build/
 !**/src/test/**/build/
 
 ### mysql ###
-mysql/
+/mysql/
 
 ### VS Code ###
 .vscode/
