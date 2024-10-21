@@ -30,7 +30,7 @@ build/
 !**/src/test/**/build/
 
 ### mongodb ###
-data/
+/data/
 
 ### VS Code ###
 .vscode/
